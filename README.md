@@ -7,3 +7,4 @@ Script para interação com a porta serial
                       |         |         |-> Velocidade  
                       |         |-> Caminho para a porta serial
                       |-> Script          
+ 
