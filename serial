@@ -9,6 +9,8 @@ fi
 
 set -e    # Exit when any command fails
 
+
+
 # Save settings of current terminal to restore later
 original_settings="$(stty -g)"
 
